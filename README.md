@@ -1,10 +1,10 @@
-#  Enas Khaled – Oracle Fusion Technical Consultant Portfolio
+#  Enas Khaled – ICT & Computer Science Teacher Portfolio
 
 Welcome to my personal portfolio website!  
 This site showcases my skills, projects, and experience as an aspiring **Oracle Fusion Technical Consultant**.  
 It is deployed using **GitHub Pages** and built with simple **HTML, CSS, and JavaScript**.
 
-🔗 **Live Website**: [https://Enas-Khaled.github.io](https://Enas-Khaled.github.io)
+🔗 **Live Website**: [https://Enas-Khaled.github.io](https://Enas-Khaled.github.io](https://enas-khaled.github.io/computer-teacher-portfolio/)
 
 ---
 
